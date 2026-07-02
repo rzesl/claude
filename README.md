@@ -37,10 +37,11 @@
   <body>
     <div class="container-lg px-3 my-5 markdown-body">
       
-      <h1><a href="https://rzesl.github.io/apquizes/">apquizes</a></h1>
       
 
       <p><a href="https://claude.ai" target="_blank" rel="noopener">Chat with Claude</a><br /><br />
+
+      <p>MCP: https://nws.caseyjhand.com/mcp</p>
 <!--<a href="ap_quizzes_mathjax.html">AP Quiz Menu</a><br />
 <a href="pmp_practice_quizzes.html">PMP Quiz Menu</a><br />
 <a href="aws_genai_pro_quiz_menu.html">AWS GenAI Dev Pro Quiz Menu</a>
