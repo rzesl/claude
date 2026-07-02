@@ -40,7 +40,7 @@
       
 
       <p><a href="https://claude.ai" target="_blank" rel="noopener">Chat with Claude</a><br /><br />
-      <p>MCP: https://nws.caseyjhand.com/mcp</p> 
+      <p><code>MCP: https://nws.caseyjhand.com/mcp</code></p> 
 
 
 <!--<a href="ap_quizzes_mathjax.html">AP Quiz Menu</a><br />
