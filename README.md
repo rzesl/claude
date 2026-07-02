@@ -1,1 +1,115 @@
-# claude
+
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Claude</title>
+<meta name="generator" content="Jekyll v3.10.0" />
+<meta property="og:title" content="apquizes" />
+<meta property="og:locale" content="en_US" />
+<link rel="canonical" href="https://rzesl.github.io/apquizes/" />
+<meta property="og:url" content="https://rzesl.github.io/apquizes/" />
+<meta property="og:site_name" content="apquizes" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="apquizes" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebSite","headline":"apquizes","name":"apquizes","url":"https://rzesl.github.io/apquizes/"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <link rel="stylesheet" href="/apquizes/assets/css/style.css?v=3424d69caa4ec77c69f53b43da2fdaf23e500be2">
+    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
+
+<!-- Setup Google Analytics -->
+
+
+
+<!-- You can set your favicon here -->
+<!-- link rel="shortcut icon" type="image/x-icon" href="/apquizes/favicon.ico" -->
+
+<!-- end custom head snippets -->
+
+  </head>
+  <body>
+    <div class="container-lg px-3 my-5 markdown-body">
+      
+      <h1><a href="https://rzesl.github.io/apquizes/">apquizes</a></h1>
+      
+
+      <p><a href="https://claude.ai" target="_blank" rel="noopener">Chat with Claude</a><br /><br />
+<!--<a href="ap_quizzes_mathjax.html">AP Quiz Menu</a><br />
+<a href="pmp_practice_quizzes.html">PMP Quiz Menu</a><br />
+<a href="aws_genai_pro_quiz_menu.html">AWS GenAI Dev Pro Quiz Menu</a>
+
+Welcome to AP Quizes
+<br>
+<br>
+AP Biology
+<br>
+<a href="ap-bio-quiz-general.html">AP Bio Quiz - General</a>
+<br>
+<a href="ap-bio-quiz-structure-of-water.html">AP Bio Quiz - Structure of Water</a>
+<br>
+<a href="ap-bio-quiz-unit-1-chemistry-of-life.html">AP Bio Quiz - Unit 1 - Chemistry of Life</a>
+<br>
+<a href="ap-bio-quiz-unit-2.html">AP Bio Quiz - Unit 2 - Cell Structure and Function</a>
+<br>
+<a href="ap-bio-quiz-unit-3.html">AP Bio Quiz - Unit 3 - Celluaur Energetics</a>
+<br>
+<a href="ap-bio-quiz-unit-4.html">AP Bio Quiz - Unit 4 - Cell Communication & Cell Cycle</a>
+<br>
+<a href="ap-bio-quiz-unit-5.html">AP Bio Quiz - Unit 5 - Heredity</a>
+<br>
+<a href="ap-bio-quiz-unit-6.html">AP Bio Quiz - Unit 6 - Gene Expression & Regulation</a>
+<br>
+<a href="ap-bio-quiz-unit-7.html">AP Bio Quiz - Unit 7 - Natural Selection</a>
+<br>
+<a href="ap-bio-quiz-unit-8.html">AP Bio Quiz - Unit 8 - Ecology</a>
+<br>
+<br>
+AP Chinese
+<br>
+<a href="ap-chinese-quizes.html">AP Chinese Unit Quizzes menu</a>
+<br>
+<br>
+AP Calculus BC
+<br>
+<a href="ap-calc-bc-quiz-1.html">AP Calc BC Quiz 1</a>
+<br>
+<a href="ap-calc-bc-unit-1.html">AP Calc - Unit 1: Limits and Continuity</a>
+<br>
+<a href="ap-calc-bc-unit-2.html">AP Calc - Unit 2: Definition and Fundamental Properties</a>
+<br>
+<a href="ap-calc-bc-unit-3.html">AP Calc - Unit 3: Differentiation: Composite, Implicit, and Inverse Functions</a>
+<br>
+<a href="ap-calc-bc-unit-4.html">AP Calc - Unit 4: Contextual Applications of Differentiation</a>
+<br>
+<a href="ap-calc-bc-unit-5.html">AP Calc - Unit 5: Analytical Applications of Differentiation</a>
+<br>
+<a href="ap-calc-bc-unit-6.html">AP Calc - Unit 6: Integration and Accumulation of Change</a>
+<br>
+<a href="ap-calc-bc-unit-7.html">AP Calc - Unit 7: Differential Equations (BC includes Euler's Method and logistic models)</a>
+<br>
+<a href="ap-calc-bc-unit-8.html">AP Calc - Unit 8: Applications of Integration (BC includes arc length and integration by parts/partial fractions)</a>
+<br>
+<a href="ap-calc-bc-unit-9.html">AP Calc - Unit 9: Parametric Equations, Polar Coordinates, and Vector-Valued Functions</a>
+<br>
+<a href="ap-calc-bc-unit-10.html">AP Calc - Unit 10: Infinite Sequences and Series (Includes Taylor polynomials, Maclaurin series, and convergence tests)</a>
+<br>
+<br>
+AP Lang
+<br>
+<a href="ap-lang-quiz-1.html">AP Lang Quiz 1</a>
+--></p>
+
+
+      
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
+    <script>anchors.add();</script>
+  </body>
+</html>
